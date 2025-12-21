@@ -16,5 +16,4 @@ A simple web application that converts between major world currencies using real
 - **API**: Fawaz Ahmed Currency API via jsDelivr CDN
 
 ## 🎓 Learning Credit
-Built while learning frontend development and JavaScript concepts from **Apna College**.
-
+Built while learning frontend development and JavaScript concepts from **Apna College (Shraddha Didi)**.
